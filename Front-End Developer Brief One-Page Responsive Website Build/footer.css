@@ -1,0 +1,47 @@
+/*footer {
+    grid-area: ftr;
+    background-color: var(--purple);
+    height: 501px;
+    padding: 50px;
+    color: var(--white);
+}
+.contact-2nd-row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.contact-2nd-row h2{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 56px;
+    width: 40%;
+}
+address {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 30%;
+}
+.contact-3rd-row ul li a{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.contact-3rd-row ul {
+    display: block;
+}
+.contact-3rd-row ul li {
+    width: 100%;
+    text-align: start;
+} 
+.contact-3rd-row {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(5, auto);
+    grid-template-rows: auto;
+    gap: 10px;
+    margin-top: 120px;
+}
+    */
+

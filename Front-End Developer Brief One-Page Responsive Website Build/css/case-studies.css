@@ -1,0 +1,9 @@
+
+/*this is not stretching the full width
+.card-square-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    position: relative;
+    width: 100%;
+}*/
